@@ -1,0 +1,3 @@
+- 👋🏼 Hi, I’m @BrittGerritsen
+- 👀 I’m interested in Statistical Analysis, Machine Learning, Data Mining, and Data Visualisation.
+- 👩🏼‍💻 I’m currently following an internship at a.s.r. (insurance company)
